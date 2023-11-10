@@ -11870,8 +11870,9 @@ textarea.form-control-lg {
     padding-bottom: 10rem;
   }
 }
-.header .logo {
-  width: 12rem;
+
+.logo {
+  width: 10rem;
 }
 
 .eventos .card:hover {
